@@ -12,7 +12,7 @@ const Listing = () => {
   return (
     <main id="listing" className="flex flex-col items-center gap-20 py-20">
       <div className="flex flex-col gap-5 items-center ">
-        <h1 className="text-5xl text-sky-500 font-bold">{category}</h1>
+        <h1 className="text-5xl text-slate-700 font-bold">{category}</h1>
         <p>
           Lorem ipsum dolor sit amet, consectetur adipisicing elit. Unde
           tempore, vero sint atque veniam dolor?
